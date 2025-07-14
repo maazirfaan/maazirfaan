@@ -7,3 +7,13 @@
 </div>
 
 ---
+
+## 🚀 About Me
+
+**Senior Software Engineer** with **7+ years** of experience building scalable, cloud-native systems. Specialized in **Backend Architecture**, **API Optimization**, and **Microservices** serving **20M+ users**.
+
+- 🔭 **Currently:** Building high-performance backend systems at Golootlo
+- 👯 **Open to:** Collaborating on scalable backend projects and open source
+- 💬 **Ask me about:** Laravel, API Design, Node.js, AWS
+
+---
