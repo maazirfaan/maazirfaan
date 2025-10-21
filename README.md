@@ -66,15 +66,15 @@
 ## 📊 Complete GitHub Stats (Private + Public)
 
 <div align="center">
-  <img src="https://github-readme-stats-six-silk-90.vercel.app/api?username=maaz-irfan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" alt="Complete GitHub Stats" />
+  <img src="https://github-readme-stats-six-silk-90.vercel.app/api?username=maazirfaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" alt="Complete GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-six-silk-90.vercel.app/api/top-langs/?username=maaz-irfan-dev&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=10&include_all_commits=true" alt="Complete Language Stats" />
+  <img src="https://github-readme-stats-six-silk-90.vercel.app/api/top-langs/?username=maazirfaan&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=10&include_all_commits=true" alt="Complete Language Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=maaz-irfan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=maazirfaan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -82,7 +82,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maaz-irfan-dev&theme=tokyo-night&hide_border=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maazirfaan&theme=tokyo-night&hide_border=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
 ---
